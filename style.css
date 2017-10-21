@@ -2,10 +2,6 @@
  * Your Styles Here
  * ----------------------------------- */
 
-h1 {
-	font-family: "Courier New", courier, serif;
-	font-size: 4em;
-}
 
 body{
 	background-color:#F1F1D4;
@@ -87,4 +83,10 @@ h2:not(.tagline){
 }
 .tagline:hover{
 	font-size:1.75em;
+}
+
+h1 {
+	font-family: "Courier New", courier, serif;
+	font-size: 4em;
+	color:#000;
 }
